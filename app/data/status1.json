@@ -1,0 +1,815 @@
+{
+  "statuses": [
+    {
+      "metadata": {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "created_at": "Tue Apr 28 15:51:05 +0000 2015",
+      "id": 593080001139990500,
+      "id_str": "593080001139990528",
+      "text": "'Ja, ik ben nogal een neute.' #stardeveloper",
+      "source": "<a href='http://twitter.com' rel='nofollow'>Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17621005,
+        "id_str": "17621005",
+        "name": "Spencer Pieters",
+        "screen_name": "spencerpieters",
+        "location": "Wetteren, Belgium",
+        "profile_location": null,
+        "description": "The successful warrior is the average man, with laser-like focus. --Bruce Lee",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 759,
+        "friends_count": 617,
+        "listed_count": 38,
+        "created_at": "Tue Nov 25 15:02:55 +0000 2008",
+        "favourites_count": 431,
+        "utc_offset": 7200,
+        "time_zone": "Brussels",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23345,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "171717",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555730874671452160/i9G_EmmM.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555730874671452160/i9G_EmmM.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/545896860435484674/H0wm7Z2G_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/545896860435484674/H0wm7Z2G_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17621005/1421249231",
+        "profile_link_color": "BD5322",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "9E9E9E",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "place": {
+        "id": "67687709552688fe",
+        "url": "https://api.twitter.com/1.1/geo/id/67687709552688fe.json",
+        "place_type": "city",
+        "name": "Ghent",
+        "full_name": "Ghent, Belgium",
+        "country_code": "BE",
+        "country": "België",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                3.5797639,
+                50.9795312
+              ],
+              [
+                3.8493597,
+                50.9795312
+              ],
+              [
+                3.8493597,
+                51.1879607
+              ],
+              [
+                3.5797639,
+                51.1879607
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "stardeveloper",
+            "indices": [
+              30,
+              44
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "nl"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "created_at": "Tue Apr 28 11:52:15 +0000 2015",
+      "id": 593019896449097700,
+      "id_str": "593019896449097729",
+      "text": "OH 'hoe kunt ge nu een bende developers managen, als ge niet weet om hoe laat ze 's morgens toekomen' #stardeveloper",
+      "source": "<a href='https://about.twitter.com/products/tweetdeck' rel='nofollow'>TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 24074816,
+        "id_str": "24074816",
+        "name": "Wouter De Rijck",
+        "screen_name": "RidingWolf",
+        "location": "Wetteren, Belgium",
+        "profile_location": null,
+        "description": "Wannabe biker, snowboarder, dev, reader, geek, goth, gamer, but most of all, I wanna be smaller.\nDead serious! err no. I'll be dead before I'll be serious.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 421,
+        "friends_count": 483,
+        "listed_count": 22,
+        "created_at": "Thu Mar 12 23:49:50 +0000 2009",
+        "favourites_count": 33,
+        "utc_offset": 7200,
+        "time_zone": "Brussels",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12168,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462359315370627072/QKZomH8N.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462359315370627072/QKZomH8N.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498767385688436737/v06RtAFX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498767385688436737/v06RtAFX_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24074816/1399808739",
+        "profile_link_color": "490E66",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "stardeveloper",
+            "indices": [
+              102,
+              116
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "nl"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "created_at": "Tue Apr 28 08:41:23 +0000 2015",
+      "id": 592971861736194000,
+      "id_str": "592971861736194048",
+      "text": "OH 'we zijn aant debatteren over koffiekoeknamen' #stardeveloper",
+      "source": "<a href='http://itunes.apple.com/us/app/twitter/id409789998?mt=12' rel='nofollow'>Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 247746967,
+        "id_str": "247746967",
+        "name": "poeziemauw",
+        "screen_name": "poeziemauw",
+        "location": "",
+        "profile_location": null,
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 294,
+        "friends_count": 331,
+        "listed_count": 10,
+        "created_at": "Sat Feb 05 13:41:37 +0000 2011",
+        "favourites_count": 2346,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7184,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240430371/badcat_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240430371/badcat_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "stardeveloper",
+            "indices": [
+              50,
+              64
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "nl"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Apr 24 10:03:17 +0000 2015",
+      "id": 591542923168247800,
+      "id_str": "591542923168247809",
+      "text": "'Commit die shit gewoon' #stardeveloper",
+      "source": "<a href='http://twitter.com' rel='nofollow'>Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17621005,
+        "id_str": "17621005",
+        "name": "Spencer Pieters",
+        "screen_name": "spencerpieters",
+        "location": "Wetteren, Belgium",
+        "profile_location": null,
+        "description": "The successful warrior is the average man, with laser-like focus. --Bruce Lee",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 759,
+        "friends_count": 617,
+        "listed_count": 38,
+        "created_at": "Tue Nov 25 15:02:55 +0000 2008",
+        "favourites_count": 431,
+        "utc_offset": 7200,
+        "time_zone": "Brussels",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23345,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "171717",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555730874671452160/i9G_EmmM.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555730874671452160/i9G_EmmM.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/545896860435484674/H0wm7Z2G_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/545896860435484674/H0wm7Z2G_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17621005/1421249231",
+        "profile_link_color": "BD5322",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "9E9E9E",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "place": {
+        "id": "67687709552688fe",
+        "url": "https://api.twitter.com/1.1/geo/id/67687709552688fe.json",
+        "place_type": "city",
+        "name": "Ghent",
+        "full_name": "Ghent, Belgium",
+        "country_code": "BE",
+        "country": "België",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                3.5797639,
+                50.9795312
+              ],
+              [
+                3.8493597,
+                50.9795312
+              ],
+              [
+                3.8493597,
+                51.1879607
+              ],
+              [
+                3.5797639,
+                51.1879607
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "stardeveloper",
+            "indices": [
+              25,
+              39
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "nl"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "created_at": "Thu Apr 23 07:39:47 +0000 2015",
+      "id": 591144419241369600,
+      "id_str": "591144419241369600",
+      "text": "OH 'de korste weg van 't zuid naar mechelsplein is een rechte lijn, maar dan loopt ge wel af en toe tegen een gebouw' #stardeveloper",
+      "source": "<a href='https://about.twitter.com/products/tweetdeck' rel='nofollow'>TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 24074816,
+        "id_str": "24074816",
+        "name": "Wouter De Rijck",
+        "screen_name": "RidingWolf",
+        "location": "Wetteren, Belgium",
+        "profile_location": null,
+        "description": "Wannabe biker, snowboarder, dev, reader, geek, goth, gamer, but most of all, I wanna be smaller.\nDead serious! err no. I'll be dead before I'll be serious.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 421,
+        "friends_count": 483,
+        "listed_count": 22,
+        "created_at": "Thu Mar 12 23:49:50 +0000 2009",
+        "favourites_count": 33,
+        "utc_offset": 7200,
+        "time_zone": "Brussels",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12168,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462359315370627072/QKZomH8N.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462359315370627072/QKZomH8N.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498767385688436737/v06RtAFX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498767385688436737/v06RtAFX_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24074816/1399808739",
+        "profile_link_color": "490E66",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "stardeveloper",
+            "indices": [
+              118,
+              132
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "nl"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 22 12:08:53 +0000 2015",
+      "id": 590849753933578200,
+      "id_str": "590849753933578241",
+      "text": "OH: 'Godverdomme, stomme SourceTree' #stardeveloper\n\n💕",
+      "source": "<a href='http://tapbots.com/software/tweetbot/mac' rel='nofollow'>Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 66573,
+        "id_str": "66573",
+        "name": "Tom Adriaenssen",
+        "screen_name": "Inferis",
+        "location": "Belgium",
+        "profile_location": null,
+        "description": "Developer. \nLoves: Katrien, Fien, Klaas, Trijn, Mitte, iOS.\nLocation: Broechem, BE. \nMobile Team Lead at @icapps, soon-to-be UIKit Engineer.\nMakes @drashapp.",
+        "url": "http://t.co/sC41RtxdPd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/sC41RtxdPd",
+                "expanded_url": "http://www.inferis.org",
+                "display_url": "inferis.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1899,
+        "friends_count": 852,
+        "listed_count": 109,
+        "created_at": "Thu Dec 14 10:40:00 +0000 2006",
+        "favourites_count": 2050,
+        "utc_offset": 7200,
+        "time_zone": "Brussels",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 72713,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B3D3F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2448082/stripe_2c66cecf57f6ea95972b54900fcc1395.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2448082/stripe_2c66cecf57f6ea95972b54900fcc1395.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/476829051194462208/3xG9k9j-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/476829051194462208/3xG9k9j-_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66573/1378994413",
+        "profile_link_color": "FF8500",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF91",
+        "profile_text_color": "0C67CB",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "place": {
+        "id": "2a8a74486cd0d519",
+        "url": "https://api.twitter.com/1.1/geo/id/2a8a74486cd0d519.json",
+        "place_type": "city",
+        "name": "Antwerp",
+        "full_name": "Antwerp, Belgium",
+        "country_code": "BE",
+        "country": "België",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.2180843,
+                51.1434643
+              ],
+              [
+                4.4982962,
+                51.1434643
+              ],
+              [
+                4.4982962,
+                51.3776487
+              ],
+              [
+                4.2180843,
+                51.3776487
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "stardeveloper",
+            "indices": [
+              37,
+              51
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "fr"
+    },
+    {
+      "metadata": {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+      },
+      "created_at": "Tue Apr 21 09:54:22 +0000 2015",
+      "id": 590453514142412800,
+      "id_str": "590453514142412800",
+      "text": "'Ik leg de lat laag, dan kan ik er makkelijker over.' #stardeveloper",
+      "source": "<a href='http://twitter.com' rel='nofollow'>Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17621005,
+        "id_str": "17621005",
+        "name": "Spencer Pieters",
+        "screen_name": "spencerpieters",
+        "location": "Wetteren, Belgium",
+        "profile_location": null,
+        "description": "The successful warrior is the average man, with laser-like focus. --Bruce Lee",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 759,
+        "friends_count": 617,
+        "listed_count": 38,
+        "created_at": "Tue Nov 25 15:02:55 +0000 2008",
+        "favourites_count": 431,
+        "utc_offset": 7200,
+        "time_zone": "Brussels",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23345,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "171717",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555730874671452160/i9G_EmmM.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555730874671452160/i9G_EmmM.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/545896860435484674/H0wm7Z2G_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/545896860435484674/H0wm7Z2G_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17621005/1421249231",
+        "profile_link_color": "BD5322",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "9E9E9E",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "place": {
+        "id": "67687709552688fe",
+        "url": "https://api.twitter.com/1.1/geo/id/67687709552688fe.json",
+        "place_type": "city",
+        "name": "Ghent",
+        "full_name": "Ghent, Belgium",
+        "country_code": "BE",
+        "country": "België",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                3.5797639,
+                50.9795312
+              ],
+              [
+                3.8493597,
+                50.9795312
+              ],
+              [
+                3.8493597,
+                51.1879607
+              ],
+              [
+                3.5797639,
+                51.1879607
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "stardeveloper",
+            "indices": [
+              54,
+              68
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "nl"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.027,
+    "max_id": 593080001139990500,
+    "max_id_str": "593080001139990528",
+    "query": "%23stardeveloper",
+    "refresh_url": "?since_id=593080001139990528&q=%23stardeveloper&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

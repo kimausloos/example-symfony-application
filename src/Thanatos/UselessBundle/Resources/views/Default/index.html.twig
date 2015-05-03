@@ -1,0 +1,17 @@
+<center>
+    <table border="0" width="50%">
+        <tr>
+            <td colspan="2">
+                <a href="{{ tweet.link }}" target="_blank">{{ tweet.tweet }}</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="right" width="75%">
+                <a href="https://twitter.com/{{ tweet.authorname }}" target="_blank">@{{ tweet.authorname }}</a>
+            </td>
+            <td>
+                <a href="https://twitter.com/{{ tweet.authorname }}" target="_blank"><img src="{{ tweet.avatar }}" /></a>
+            </td>
+        </tr>
+    </table>
+</center>

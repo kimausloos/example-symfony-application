@@ -1,0 +1,4 @@
+thanatos_useless:
+    resource: "@ThanatosUselessBundle/Controller/"
+    type:     annotation
+    prefix:   /
